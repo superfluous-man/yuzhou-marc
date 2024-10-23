@@ -45,13 +45,12 @@ import_tables:
   - yuzhou_pinyin.hanyu
   - yuzhou_pinyin.poetry
   - yuzhou_pinyin.cn_en
-  - yuzhou_pinyin.humanity
-  - yuzhou_pinyin.socisci
-  - yuzhou_pinyin.natsci
-  - yuzhou_pinyin.agriculture
-  - yuzhou_pinyin.engineer
-  - yuzhou_pinyin.medicine
-  - yuzhou_pinyin.zzz 
+# - yuzhou_pinyin.humanity
+# - yuzhou_pinyin.socisci
+# - yuzhou_pinyin.natsci
+# - yuzhou_pinyin.agriculture
+# - yuzhou_pinyin.medicine
+# - yuzhou_pinyin.zzz 
 ...
 
 一一列舉		1
