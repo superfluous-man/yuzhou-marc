@@ -44,7 +44,7 @@ import_tables:
   - yuzhou_pinyin 
   - yuzhou_pinyin.hanyu
   - yuzhou_pinyin.poetry
-  - yuzhou_pinyin.cn_en
+# - yuzhou_pinyin.cn_en
 # - yuzhou_pinyin.humanity
 # - yuzhou_pinyin.socisci
 # - yuzhou_pinyin.natsci
