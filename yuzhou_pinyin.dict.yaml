@@ -22,7 +22,7 @@
 #
 
 ---
-name: yuzhou_pinyin
+name: terra_pinyin
 version: "2019.06.27"
 sort: by_weight
 use_preset_vocabulary: true
